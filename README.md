@@ -55,7 +55,7 @@
     <tr>
       <td> :heavy_check_mark: Visual Studio Code </td>
       <td> :heavy_check_mark: C# </td>
-      <td> :heavy_check_mark: AppScript </td>
+      <td> :heavy_check_mark: Spring Boot </td>
     </tr>
   </table>
   
