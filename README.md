@@ -7,14 +7,19 @@
 Sportline América, Desarrollador --- Febrero, 2017 - Abril, 2023.
 
 :heavy_check_mark: Reduje el tiempo de obtener las ventas y organizarlas en libros de excel compartidos en drive de aproximadamente 4 horas a 30 minutos en el departamento de contabilidad, desarrollando una aplicación web que realiza esta tarea para todas las tiendas.
+
 :heavy_check_mark: Reduje en un 95% las solicitudes de documentos a recursos humanos y el tiempo de espera de los colaboradores, desarrollando una aplicación web con conexión a SAP de autoservicio de documentos.
+
 :heavy_check_mark: Mejore el sistema de obtención de marcaciones con lo que reducí su tiempo de ejecución de 3 horas a 5 minutos y en un 99% los casos de marcaciones incompletas.
+
 :heavy_check_mark: Desarrolle aplicaciones con integración a google cloud y bibliotecas de google como drive, chat, gmail, maps, bigquery.
+
 :heavy_check_mark: Desarrolle aplicaciones con integración a servicios de AWS como S3, Athena, RDS.
 
 Cervecería Nacional, Analista Programador --- Junio, 2015 - Octubre, 2016.
 
 :heavy_check_mark: Automatice aproximadamente el 95% de los reportes de ventas y distribución en excel, facilitando así el análisis de los datos.
+
 :heavy_check_mark: Mejore el checklist del estado de los camiones de distribución desarrollando una aplicación móvil para el mismo eliminando así la pérdida de estos datos, que anteriormente se llevaba con documentos impresos.
   
 ### HABILIDADES TECNICAS
