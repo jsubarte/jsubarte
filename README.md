@@ -1,5 +1,7 @@
 # :black_joker: :man_technologist: Mgtr. Joel Antonio Sánchez Ubarte :man_technologist: :black_joker:
-#### :panama: Soy panameño, Ingeniero de Sistemas y Computación egresado de la Facultad de Ingeniería de Sistemas Computacionales de la Universidad Tecnológica de Panamá.
+
+#### :panama: Cuento con +6 años de experiencia, como desarrollador de aplicaciones de escritorio (VB.NET, C#), web (HTML, CSS, JavaScript, Node Js, ReactJS). Actualmente en búsqueda de nuevas oportunidades en LATAM como Full Stack Web Development.
+
 #### :latin_cross: Soy cristiano, en mis años de estudio participe del grupo universitario Vida Estudiantil.
 
 ## EXPERIENCIA LABORAL
@@ -36,18 +38,23 @@
       <td> :heavy_check_mark: TypeScript </td>
     </tr>
     <tr>
+      <td> :heavy_check_mark: AWS </td>
+      <td> :heavy_check_mark: GCP </td>
+      <td> :heavy_check_mark: Jenkins </td>
+    </tr>
+    <tr>
       <td> :heavy_check_mark: SQL Server </td>
       <td> :heavy_check_mark: MongoDB </td>
       <td> :heavy_check_mark: Oracle </td>
     </tr>
     <tr>
-      <td> :heavy_check_mark: Visual Studio .Net </td>
+      <td> :heavy_check_mark: MySQL </td>
       <td> :heavy_check_mark: C# </td>
-      <td> :heavy_check_mark: Dart </td>
+      <td> :heavy_check_mark: Flutter </td>
     </tr>
     <tr>
       <td> :heavy_check_mark: Visual Studio Code </td>
-      <td> :heavy_check_mark: Flutter </td>
+      <td> :heavy_check_mark: C# </td>
       <td> :heavy_check_mark: AppScript </td>
     </tr>
   </table>
