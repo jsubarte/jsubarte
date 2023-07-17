@@ -40,16 +40,16 @@
     <tr>
       <td> :heavy_check_mark: AWS </td>
       <td> :heavy_check_mark: GCP </td>
-      <td> :heavy_check_mark: Jenkins </td>
+      <td> :heavy_check_mark: Docker </td>
     </tr>
     <tr>
+      <td> :heavy_check_mark: Jenkins </td>
       <td> :heavy_check_mark: SQL Server </td>
       <td> :heavy_check_mark: MongoDB </td>
-      <td> :heavy_check_mark: Oracle </td>
     </tr>
     <tr>
+      <td> :heavy_check_mark: Oracle </td>
       <td> :heavy_check_mark: MySQL </td>
-      <td> :heavy_check_mark: C# </td>
       <td> :heavy_check_mark: Flutter </td>
     </tr>
     <tr>
