@@ -61,10 +61,10 @@
 
 ## EDUCACIÓN
 
-Universidad Politécnica de Cataluña -- Cataluña, España.
+Universidad Politécnica de Cataluña -- Cataluña, España. <br>
 Master en Full Stack Web Development, Mayo 2023
 
-Universidad Tecnológica de Panamá -- Panamá, Panamá.
+Universidad Tecnológica de Panamá -- Panamá, Panamá. <br>
 Licenciatura en Ingeniería de Sistemas y Computación, Agosto 2015
 
 ## INTERESES Y PASATIEMPOS
