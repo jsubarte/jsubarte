@@ -1,10 +1,10 @@
-# :black_joker: :man_technologist: Ing. Joel Sánchez Ubarte :man_technologist: :black_joker:
+# :black_joker: :man_technologist: Mgtr. Joel Antonio Sánchez Ubarte :man_technologist: :black_joker:
 #### :panama: Soy panameño, Ingeniero de Sistemas y Computación egresado de la Facultad de Ingeniería de Sistemas Computacionales de la Universidad Tecnológica de Panamá.
 #### :latin_cross: Soy cristiano, en mis años de estudio participe del grupo universitario Vida Estudiantil.
 
-### EXPERIENCIA LABORAL
+## EXPERIENCIA LABORAL
 
-Sportline América, Desarrollador --- Febrero, 2017 - Abril, 2023.
+### Sportline América, Desarrollador --- Febrero, 2017 - Abril, 2023.
 
 :heavy_check_mark: Reduje el tiempo de obtener las ventas y organizarlas en libros de excel compartidos en drive de aproximadamente 4 horas a 30 minutos en el departamento de contabilidad, desarrollando una aplicación web que realiza esta tarea para todas las tiendas.
 
@@ -16,13 +16,13 @@ Sportline América, Desarrollador --- Febrero, 2017 - Abril, 2023.
 
 :heavy_check_mark: Desarrolle aplicaciones con integración a servicios de AWS como S3, Athena, RDS.
 
-Cervecería Nacional, Analista Programador --- Junio, 2015 - Octubre, 2016.
+### Cervecería Nacional, Analista Programador --- Junio, 2015 - Octubre, 2016.
 
 :heavy_check_mark: Automatice aproximadamente el 95% de los reportes de ventas y distribución en excel, facilitando así el análisis de los datos.
 
 :heavy_check_mark: Mejore el checklist del estado de los camiones de distribución desarrollando una aplicación móvil para el mismo eliminando así la pérdida de estos datos, que anteriormente se llevaba con documentos impresos.
   
-### HABILIDADES TECNICAS
+## HABILIDADES TECNICAS
 
   <table>
     <tr>
@@ -52,7 +52,7 @@ Cervecería Nacional, Analista Programador --- Junio, 2015 - Octubre, 2016.
     </tr>
   </table>
   
-### INTERESES Y PASATIEMPOS
+## INTERESES Y PASATIEMPOS
 
 Entre mis intereses puedo mencionar: <br>
 :red_circle: Desarrollo Web <br>
