@@ -4,47 +4,46 @@
 
 ### EXPERIENCIA LABORAL
 
-Recién terminé mis estudios, empece a laborar en la Cervecería Nacional de Panamá como Analista desarrollador de servicios de distribución. Donde desempeñe labores desde 2015 al 2016.
+Sportline América, Desarrollador --- Febrero, 2017 - Abril, 2023.
 
-Desde 2017 laboro en Sportline América S.A. Realizando tareas como Desarrollador específicamente:
+:heavy_check_mark: Reduje el tiempo de obtener las ventas y organizarlas en libros de excel compartidos en drive de aproximadamente 4 horas a 30 minutos en el departamento de contabilidad, desarrollando una aplicación web que realiza esta tarea para todas las tiendas.
+:heavy_check_mark: Reduje en un 95% las solicitudes de documentos a recursos humanos y el tiempo de espera de los colaboradores, desarrollando una aplicación web con conexión a SAP de autoservicio de documentos.
+:heavy_check_mark: Mejore el sistema de obtención de marcaciones con lo que reducí su tiempo de ejecución de 3 horas a 5 minutos y en un 99% los casos de marcaciones incompletas.
+:heavy_check_mark: Desarrolle aplicaciones con integración a google cloud y bibliotecas de google como drive, chat, gmail, maps, bigquery.
+:heavy_check_mark: Desarrolle aplicaciones con integración a servicios de AWS como S3, Athena, RDS.
 
-  :heavy_check_mark: Desarrollando ETLs
-  
-  :heavy_check_mark: Desarrollo Web con integración a Web Services de SAP
-  
-  :heavy_check_mark: Desarrollo de reportes en Crystal Report y Web Intelligence con base de datos SQL y Oracle
-  
-  :heavy_check_mark: Desarrollo de procedimientos almacenados tanto en SQL Server como en Oracle
-  
-  :heavy_check_mark: Desarrollo y mantenimiento de aplicaciones de uso interno de los departamentos de finanzas, recursos humanos y tecnología.
+Cervecería Nacional, Analista Programador --- Junio, 2015 - Octubre, 2016.
+
+:heavy_check_mark: Automatice aproximadamente el 95% de los reportes de ventas y distribución en excel, facilitando así el análisis de los datos.
+:heavy_check_mark: Mejore el checklist del estado de los camiones de distribución desarrollando una aplicación móvil para el mismo eliminando así la pérdida de estos datos, que anteriormente se llevaba con documentos impresos.
   
 ### HABILIDADES TECNICAS
 
   <table>
     <tr>
-      <td> :heavy_check_mark: JavaScript </td>
-      <td> :heavy_check_mark: Visual Studio .Net </td>
-      <td> :heavy_check_mark: Dart </td>
-    </tr>
-    <tr>
       <td> :heavy_check_mark: HTML5 </td>
-      <td> :heavy_check_mark: C# </td>
-      <td> :heavy_check_mark: SQL Server </td>
-    </tr>
-    <tr>
       <td> :heavy_check_mark: CSS </td>
-      <td> :heavy_check_mark: Visual Studio Code </td>
-      <td> :heavy_check_mark: MySQL </td>
+      <td> :heavy_check_mark: JavaScript </td>
     </tr>
     <tr>
-      <td> :heavy_check_mark: AppScript </td>
-      <td> :heavy_check_mark: PHP7 </td>
+      <td> :heavy_check_mark: Node </td>
+      <td> :heavy_check_mark: React </td>
+      <td> :heavy_check_mark: TypeScript </td>
+    </tr>
+    <tr>
+      <td> :heavy_check_mark: SQL Server </td>
+      <td> :heavy_check_mark: MongoDB </td>
       <td> :heavy_check_mark: Oracle </td>
     </tr>
     <tr>
-      <td> :heavy_check_mark: AppSheet </td>
-      <td> :heavy_check_mark: Android Studio </td>
+      <td> :heavy_check_mark: Visual Studio .Net </td>
+      <td> :heavy_check_mark: C# </td>
+      <td> :heavy_check_mark: Dart </td>
+    </tr>
+    <tr>
+      <td> :heavy_check_mark: Visual Studio Code </td>
       <td> :heavy_check_mark: Flutter </td>
+      <td> :heavy_check_mark: AppScript </td>
     </tr>
   </table>
   
