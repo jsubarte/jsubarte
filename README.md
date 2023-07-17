@@ -58,7 +58,15 @@
       <td> :heavy_check_mark: Spring Boot </td>
     </tr>
   </table>
-  
+
+## EDUCACIÓN
+
+Universidad Politécnica de Cataluña -- Cataluña, España
+Master en Full Stack Web Development, Mayo 2023
+
+Universidad Tecnológica de Panamá -- Panamá, Panamá
+Licenciatura en Ingeniería de Sistemas y Computación, Agosto 2015
+
 ## INTERESES Y PASATIEMPOS
 
 Entre mis intereses puedo mencionar: <br>
