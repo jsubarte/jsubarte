@@ -1,8 +1,9 @@
 # :black_joker: :man_technologist: Mgtr. Joel Antonio Sánchez Ubarte :man_technologist: :black_joker:
 
-#### :panama: Cuento con +6 años de experiencia, como desarrollador de aplicaciones de escritorio (VB.NET, C#), web (HTML, CSS, JavaScript, Node Js, ReactJS). Actualmente en búsqueda de nuevas oportunidades en LATAM como Full Stack Web Development.
+#### :panama: Cuento con +6 años de experiencia, como desarrollador de aplicaciones de escritorio (C#), web (HTML, CSS, JavaScript, Node Js, ReactJS). Actualmente en búsqueda de nuevas oportunidades en LATAM como Full Stack Web Development.
 
 #### :latin_cross: Soy cristiano, en mis años de estudio participe del grupo universitario Vida Estudiantil.
+### No gusto de la idea de tener mis repositorios públicos, en caso de querer ver el código de mis repositorios no hay ningún problema con mostrarlos durante la entrevista.
 
 ## EXPERIENCIA LABORAL
 
